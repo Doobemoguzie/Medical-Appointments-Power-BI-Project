@@ -190,10 +190,10 @@ Difference in no-show rate between SMS exposure groups.
 ![Behavioral Screenshot](/Screenshots/Behavior.PNG)
 
 ### Structural Analysis
-![Structural Screenshot](Screenshots/Structural.png)
+![Structural Screenshot](/Screenshots/Structural.png)
 
 ### Intervention Analysis
-![Intervention Screenshot](Screenshots/Intervention.png)
+![Intervention Screenshot](/Screenshots/Intervention.png)
 
 ---
 
